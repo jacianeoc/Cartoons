@@ -13,6 +13,10 @@
     "react-slick": "^0.27.1",
     "styled-components": "^5.1.1"
   },
+  "engines": {
+  "node": "16.0"
+},
+
   "scripts": {
     "start": "react-scripts --force start",
     "build": "react-scripts  build",
